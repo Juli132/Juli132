@@ -12,7 +12,8 @@ Here's what I've been up to:
 <tr>
 <td width="420" align="center">
 
-<img width="400" alt="Dimidium Banner" src="https://github.com/user-attachments/assets/c8ee376f-ee58-4ebb-901a-757a6417f868" />
+<img width="911" height="823" alt="2026-06-2421-59-46-ezgif com-crop (1)" src="https://github.com/user-attachments/assets/7b1b2f8c-a884-47bd-879c-f51d135b5897" />
+
 
 </td>
 <td>
