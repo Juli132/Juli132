@@ -19,11 +19,12 @@ Here's what I've been up to:
 
 Dimidium is an additive manufacturing tooling ecosystem focused on 3D printer configuration, firmware automation, and workflow management.
 
-At its core is Bellerophon (BPH), a custom Domain Specific Language (DSL) designed around a 1-to-many compilation architecture. A single BPH program can be compiled into multiple firmware dialects and targets, allowing the same high-level logic to generate output for systems such as Klipper, Marlin, and other printer firmware environments.
+At its core is Bellerophon (BPH), a custom Domain Specific Language (DSL) designed around a 1-to-many compilation architecture. 
 
-Beyond the language itself, Dimidium includes a compiler pipeline, IDE interface, and supporting tools for writing, compiling, and managing printer automation workflows across different firmware ecosystems.
+A single BPH program can be compiled into multiple firmware dialects and targets, allowing the same high-level logic to generate output for systems such as Klipper, Marlin, and other printer firmware environments.
 
-The goal is to provide a portable abstraction layer for additive manufacturing, enabling users to write configuration and automation logic once while maintaining compatibility across multiple firmware platforms.
+Beyond the language itself, Dimidium includes a compiler pipeline, IDE interface, and supporting tools for writing, compiling, and aims to include managing printer automation workflows across different firmware ecosystems.
+
 
 </td>
 </tr>
