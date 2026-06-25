@@ -52,14 +52,14 @@ DOMA consists of two applications:
 **[PartyHub](https://disla.itch.io/doma-partyhub)**  
 A tabletop RPG streaming overlay system for managing party information in real time.
 
-It supports player slots (2–6 players plus DM), click-to-edit text for names, classes, and labels, persistent live updates, theme switching via URL parameters, character image support, and OBS browser source integration.
+It supports player slots (2–6 players plus DM), click-to-edit text for names, classes, and labels, persistent live updates, theme switching via URL parameters, character image support, OBS browser source integration, and more!
 
 <br>
 
 **[Stream Frame](https://disla.itch.io/doma-stream-frame)**  
 A general-purpose OBS overlay system for streaming workflows.
 
-It provides multi-theme support, live text editing, instant theme switching via URL parameters, drag-and-drop mod support, and optional animation scripting.
+It provides multi-theme support, live text editing, instant theme switching via URL parameters, drag-and-drop mod support and much more!
 
 </td>
 </tr>
