@@ -10,10 +10,8 @@ Here's what I've been up to:
 
 <table>
 <tr>
-<td width="420" align="center">
-
-<img width="911" height="823" alt="2026-06-2421-59-46-ezgif com-crop (1)" src="https://github.com/user-attachments/assets/7b1b2f8c-a884-47bd-879c-f51d135b5897" />
-
+<td width="500" align="center">
+  <img width="400" alt="Dimidium Logo" src="https://github.com/user-attachments/assets/7b1b2f8c-a884-47bd-879c-f51d135b5897" />
 
 </td>
 <td>
@@ -37,18 +35,14 @@ Beyond the language itself, Dimidium includes a compiler pipeline, IDE interface
 <tr>
 <td width="360" align="center">
 
-<img width="320" alt="DOMA Logo" src="https://github.com/user-attachments/assets/16557100-a031-4bae-80cf-05c1f71120ea" />
+<img width="250" alt="DOMA Logo" src="https://github.com/user-attachments/assets/16557100-a031-4bae-80cf-05c1f71120ea" />
 
 </td>
 <td>
 
-DOMA is a local-first overlay engine suite for real-time streaming interfaces.
-
-It runs entirely on localhost and renders web-based overlays directly into OBS via browser sources.
+DOMA is a local-first overlay engine for real-time streaming interfaces.
 
 Check it out here on [itch.io](https://disla.itch.io/)! 
-
-DOMA consists of two applications:
 
 **[PartyHub](https://disla.itch.io/doma-partyhub)**  
 A tabletop RPG streaming overlay system for managing party information in real time.
