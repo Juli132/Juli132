@@ -35,7 +35,9 @@ Beyond the language itself, Dimidium includes a compiler pipeline, IDE interface
 <tr>
 <td width="360" align="center">
 
-<img width="250" alt="DOMA Logo" src="https://github.com/user-attachments/assets/16557100-a031-4bae-80cf-05c1f71120ea" />
+<a href="https://disla.itch.io/">
+  <img width="250" alt="DOMA Logo" src="https://github.com/user-attachments/assets/16557100-a031-4bae-80cf-05c1f71120ea" />
+</a>
 
 </td>
 <td>
