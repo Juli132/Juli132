@@ -11,8 +11,9 @@ Here's what I've been up to:
 <table>
 <tr>
 <td width="500" align="center">
+<a href= "https://github.com/Disla-Novo/Dimidium_Bellerophon">
   <img width="400" alt="Dimidium Logo" src="https://github.com/user-attachments/assets/7b1b2f8c-a884-47bd-879c-f51d135b5897" />
-
+</a>
 </td>
 <td>
 
@@ -62,9 +63,3 @@ It provides multi-theme support, live text editing, instant theme switching via 
 </tr>
 </table>
 
-
-
-##   My Notes
-Dimidium is currently under active development and not yet publicly released.
-
-Feedback, suggestions, contributions and technical discussion are always welcome!
